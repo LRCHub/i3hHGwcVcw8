@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "2way nice guy",
+  "base_artist": "Creepy Nuts",
+  "createdAt": "2025-12-28T18:57:37.422313Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "2way nice guy",
+      "artist": "Creepy Nuts",
+      "has_synced": true,
+      "path": "select/01_2way_nice_guy_Creepy_Nuts.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "2way nice guy",
+      "artist": "Creepy Nuts",
+      "has_synced": false,
+      "path": "select/02_2way_nice_guy_Creepy_Nuts.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "【MV】Creepy Nuts - 2way nice guy",
+      "artist": "Creepy Nuts",
+      "has_synced": true,
+      "path": "select/03_【MV】Creepy_Nuts_-_2way_nice_guy_Creepy_Nuts.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "2way nice guy",
+      "artist": "CreepyNuts",
+      "has_synced": false,
+      "path": "select/pl_01_2way_nice_guy_CreepyNuts.txt"
+    }
+  ]
+}
